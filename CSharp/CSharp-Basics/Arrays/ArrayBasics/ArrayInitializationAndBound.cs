@@ -1,7 +1,7 @@
 using System;
 
 // This program demonstrates basic array operations in C#
-class ArrayBasics
+class ArrayInitializationAndBound
 {
   static void Main()
   {

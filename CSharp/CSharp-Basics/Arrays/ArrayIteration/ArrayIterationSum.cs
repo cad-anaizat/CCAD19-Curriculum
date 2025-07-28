@@ -1,4 +1,4 @@
-class ArrayIteration
+class ArrayIterationSum
 {
   static void Main()
   {
